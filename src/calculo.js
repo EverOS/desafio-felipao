@@ -7,4 +7,4 @@ console.log(num1 * num2);
 console.log(num1 / num2);
 console.log(num1 % num2);
 
-console.log(Muitas Operações Matemáticas);
+console.log("Muitas Operações Matemáticas");
